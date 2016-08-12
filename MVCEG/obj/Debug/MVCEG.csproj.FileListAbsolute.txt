@@ -1,0 +1,9 @@
+c:\users\victorious\documents\visual studio 2010\Projects\MVCEG\MVCEG\bin\MVCEG.dll
+c:\users\victorious\documents\visual studio 2010\Projects\MVCEG\MVCEG\bin\MVCEG.pdb
+c:\users\victorious\documents\visual studio 2010\Projects\MVCEG\MVCEG\obj\Debug\MVCEG.csprojResolveAssemblyReference.cache
+c:\users\victorious\documents\visual studio 2010\Projects\MVCEG\MVCEG\obj\Debug\MVCEG.dll
+c:\users\victorious\documents\visual studio 2010\Projects\MVCEG\MVCEG\obj\Debug\MVCEG.pdb
+c:\Users\Victorious\Documents\Visual Studio 2010\Projects\MVCEG\MVCEG\bin\EntityFramework.dll
+c:\Users\Victorious\Documents\Visual Studio 2010\Projects\MVCEG\MVCEG\bin\EntityFramework.SqlServer.dll
+c:\Users\Victorious\Documents\Visual Studio 2010\Projects\MVCEG\MVCEG\bin\EntityFramework.xml
+c:\Users\Victorious\Documents\Visual Studio 2010\Projects\MVCEG\MVCEG\bin\EntityFramework.SqlServer.xml

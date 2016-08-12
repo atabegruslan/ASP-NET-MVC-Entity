@@ -19,18 +19,18 @@
 3. Manage NuGet Packages for Solution
 4. Install EntityFramework (EntityFramework shows up under References in Solution Explorer)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple1.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple2.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple3.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple4.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple5.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple6.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple7.PNG)
 
-![](aspmvc_simple1)
+![](https://raw.githubusercontent.com/atabegruslan/ASP-NET-MVC-Entity/master/Illustrations/aspmvc_simple8.PNG)
